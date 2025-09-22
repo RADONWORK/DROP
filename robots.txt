@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://radonwork.github.io/DROP/sitemap.xml
